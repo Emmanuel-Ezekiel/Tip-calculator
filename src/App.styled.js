@@ -24,7 +24,7 @@ export const Main = styled.main`
     }
 
     @media (max-width: 1279px) {
-        margin: 183px 0 50px;
+      margin: 183px 0 50px;
     }
   }
 
@@ -81,9 +81,9 @@ export const Main = styled.main`
         }
 
         @media (max-width: 1279px) {
-            width: 100%;
+          width: 100%;
           height: 400px;
-      }
+        }
         .user {
           position: absolute;
           top: 92%;
@@ -97,8 +97,7 @@ export const Main = styled.main`
           @media (max-width: 1279px) {
             top: 93%;
             left: 4%;
-      }
-          
+          }
         }
         span {
           position: absolute;
@@ -114,7 +113,7 @@ export const Main = styled.main`
           @media (max-width: 1279px) {
             top: 11%;
             left: 4%;
-      }
+          }
         }
         label {
           margin: 10px 0 0 15px;
@@ -127,7 +126,7 @@ export const Main = styled.main`
           }
           @media (max-width: 1279px) {
             margin: 10px 0 0;
-      }
+          }
         }
         input {
           border: none;
@@ -146,7 +145,7 @@ export const Main = styled.main`
           }
           @media (max-width: 1279px) {
             width: 100%;
-      }
+          }
 
           &:focus {
             outline: 3px solid #2bb9a6;
@@ -165,7 +164,7 @@ export const Main = styled.main`
           }
           @media (max-width: 1279px) {
             width: 100%;
-      }
+          }
 
           p {
             color: #a4aaad;
@@ -178,11 +177,10 @@ export const Main = styled.main`
               margin-bottom: 0;
             }
             @media (max-width: 1279px) {
-                margin-left: -213px;
+              margin-left: -213px;
               margin-bottom: 0;
-      }
+            }
           }
-          
 
           .buttonContainer {
             margin-bottom: -5px;
@@ -198,11 +196,11 @@ export const Main = styled.main`
               gap: 9px;
             }
             @media (max-width: 1279px) {
-                display: flex;
+              display: flex;
               flex-direction: row;
               align-items: center;
               gap: 9px;
-      }
+            }
 
             .button {
               width: 110px;
@@ -220,7 +218,7 @@ export const Main = styled.main`
               }
               @media (max-width: 1279px) {
                 width: 160px;
-      }
+              }
               &:hover {
                 background-color: #2dc2ae;
                 color: #105d5d;
@@ -243,7 +241,7 @@ export const Main = styled.main`
                 height: 50px;
                 margin-left: 0.09px;
                 margin-top: 0.9px;
-      }
+              }
             }
           }
         }
@@ -258,7 +256,7 @@ export const Main = styled.main`
           }
           @media (max-width: 1279px) {
             width: 100%;
-      }
+          }
           /* &:focus {
                     outline: 3px solid #2bb9a6;
                 }  */
@@ -288,7 +286,7 @@ export const Main = styled.main`
             align-items: center;
             justify-content: space-between;
             flex-direction: row;
-      }
+          }
 
           .is-danger {
             color: #e50f01;
@@ -318,7 +316,7 @@ export const Main = styled.main`
           }
           @media (max-width: 1279px) {
             width: 100%;
-      }
+          }
 
           &:focus {
             outline: 3px solid #2bb9a6;
@@ -363,10 +361,10 @@ export const Main = styled.main`
           width: 300px;
         }
         @media (max-width: 1279px) {
-        flex-direction: row;
+          flex-direction: row;
           margin: 20px 30px;
           width: 300px;
-      }
+        }
 
         span {
           font-size: 36px;
@@ -404,10 +402,10 @@ export const Main = styled.main`
           width: 300px;
         }
         @media (max-width: 1279px) {
-            flex-direction: row;
+          flex-direction: row;
           margin: -20px 30px;
           width: 300px;
-      }
+        }
 
         span {
           font-size: 36px;
@@ -446,9 +444,9 @@ export const Main = styled.main`
           margin-top: 40px;
         }
         @media (max-width: 1279px) {
-            width: 300px;
+          width: 300px;
           margin-top: 40px;
-      }
+        }
       }
     }
   }
